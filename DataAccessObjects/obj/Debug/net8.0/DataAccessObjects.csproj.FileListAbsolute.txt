@@ -1,0 +1,15 @@
+D:\Study\FPT\Kỳ 5\PRN212\New folder\Minh\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.csproj.AssemblyReference.cache
+D:\Study\FPT\Kỳ 5\PRN212\New folder\Minh\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\FPT\Kỳ 5\PRN212\New folder\Minh\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.AssemblyInfoInputs.cache
+D:\Study\FPT\Kỳ 5\PRN212\New folder\Minh\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.AssemblyInfo.cs
+D:\Study\FPT\Kỳ 5\PRN212\New folder\Minh\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.csproj.CoreCompileInputs.cache
+D:\Study\FPT\Kỳ 5\PRN212\New folder\Minh\ProductManagementDemo\DataAccessObjects\bin\Debug\net8.0\DataAccessObjects.deps.json
+D:\Study\FPT\Kỳ 5\PRN212\New folder\Minh\ProductManagementDemo\DataAccessObjects\bin\Debug\net8.0\DataAccessObjects.dll
+D:\Study\FPT\Kỳ 5\PRN212\New folder\Minh\ProductManagementDemo\DataAccessObjects\bin\Debug\net8.0\DataAccessObjects.pdb
+D:\Study\FPT\Kỳ 5\PRN212\New folder\Minh\ProductManagementDemo\DataAccessObjects\bin\Debug\net8.0\BusinessObjects.dll
+D:\Study\FPT\Kỳ 5\PRN212\New folder\Minh\ProductManagementDemo\DataAccessObjects\bin\Debug\net8.0\BusinessObjects.pdb
+D:\Study\FPT\Kỳ 5\PRN212\New folder\Minh\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\DataAcce.79975846.Up2Date
+D:\Study\FPT\Kỳ 5\PRN212\New folder\Minh\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.dll
+D:\Study\FPT\Kỳ 5\PRN212\New folder\Minh\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\refint\DataAccessObjects.dll
+D:\Study\FPT\Kỳ 5\PRN212\New folder\Minh\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\DataAccessObjects.pdb
+D:\Study\FPT\Kỳ 5\PRN212\New folder\Minh\ProductManagementDemo\DataAccessObjects\obj\Debug\net8.0\ref\DataAccessObjects.dll
